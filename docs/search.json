@@ -46,12 +46,12 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Applied Linear ALgebra",
+    "title": "Course Overview",
     "section": "",
-    "text": "This is the central repository for the lecture notes for CSCI XXXX (Applied Linear Algebra).",
+    "text": "This is the central repository for the lecture notes for Applied Linear Algebra.\nThis course is currently under construction.",
     "crumbs": [
       "Course Info",
-      "Applied Linear ALgebra"
+      "Course Overview"
     ]
   }
 ]
